@@ -4,7 +4,8 @@
 
 ```
 Horiseon is a marketing agency.
-This project aims to provide a codebase that follows accessibility standards, so that its site is optimized for search engines.
+This project aims to provide a codebase that follows accessibility standards, 
+so that its site is optimized for search engines.
 ```
 
 ## Source URL
